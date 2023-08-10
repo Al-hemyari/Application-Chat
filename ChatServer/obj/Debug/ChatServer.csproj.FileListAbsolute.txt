@@ -1,0 +1,8 @@
+F:\3\AppChat\ChatServer\bin\Debug\ChatServer.exe.config
+F:\3\AppChat\ChatServer\bin\Debug\ChatServer.exe
+F:\3\AppChat\ChatServer\bin\Debug\ChatServer.pdb
+F:\3\AppChat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+F:\3\AppChat\ChatServer\obj\Debug\ChatServer.exe
+F:\3\AppChat\ChatServer\obj\Debug\ChatServer.pdb
+F:\3\AppChat\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+F:\3\AppChat\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
